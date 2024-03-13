@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 60px;
+    background-color: rgb(17,24,39);
+    color: white;
+}
+.nav-linK{
+    display: flex;
+    gap: 2rem;
+    font-weight: 500;
+    color: white;
+}
